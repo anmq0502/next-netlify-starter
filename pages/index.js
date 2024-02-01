@@ -23,7 +23,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">được chua
+        <p className="description">được chua 2
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
